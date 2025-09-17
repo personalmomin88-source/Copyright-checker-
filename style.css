@@ -28,3 +28,7 @@ button {
   color: white;
   cursor: pointer;
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
